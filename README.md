@@ -2,13 +2,13 @@
 Coisas que o pessoal da Zwei usa/recomenda...
 
 
-
-# Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Zwei Stuff [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of arrrrrrrrr!
 
-## Contents
-- [Preamble](#preamble)
+## Sumário
+
+- [Programas](#programas)
 - [Background Information](#background-information)
 - [VPNs](#vpns)
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
@@ -16,14 +16,10 @@ Coisas que o pessoal da Zwei usa/recomenda...
     - [Self-hosted VPNs](#self-hosted-vpns)
     
     
-    ## Preamble
-Over the past couple of years I've accumulated bookmarks, saved Reddit posts, and GitHub stars all related to piracy in some form or another. This list is my attempt to add structure to those resources and share them. Everything you need to get started on your pirate voyage can be found below.
+## Programas
 
-I am aware that a number of websites featured in this list rely on operating under obscurity, and that this list could potentially contribute to their demise through excess exposure. I'm sorry about that - I just like making lists.
 
-Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
-
-For discussion and feedback, please head to [the Reddit thread on /r/Piracy](https://www.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/). If you come across dead links, please report them by [creating an issue](https://github.com/Igglybuff/awesome-piracy/issues/new).
+[Programas da Adobe](https://drive.google.com/drive/folders/1mGjQGjjmVXcN_Lu_dXf68NBC6RhRRBYp?usp=sharing) Torrents com a maior parte dos programas da Adobe mais atualizados (até 19/03/2019) e Pré-crackeados (verifique no arquivo .inf/.nfo as instruções de instalação.
 
 ## Mirrors
 This list is periodically mirrored to [PasteBin](https://github.com/Igglybuff/awesome-piracy/blob/master/pastebin.url).
