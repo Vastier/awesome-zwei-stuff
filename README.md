@@ -1,4 +1,6 @@
-# Awesome Zwei Stuff [![Zwei](https://i.imgur.com/OsmED3M.png)](https://www.instagram.com/generationzwei/)
+[![Zwei](https://i.imgur.com/OsmED3M.png)](https://www.instagram.com/generationzwei/)
+# Awesome Zwei Stuff
+
 > Coisas que o pessoal da Zwei usa/recomenda...
 
 
