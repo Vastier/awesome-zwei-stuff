@@ -24,4 +24,4 @@
 
 
 
-- [Green Luma Reborn](https://drive.google.com/open?id=1-wpmpDiJth5W3hD90THmLjwH4xgyy-ZD)
+- [Green Luma Reborn](http://www.mediafire.com/file/u8nfdx8ndwkj4dh/GreenLuma_Reborn_1.6.7.7z/file)
