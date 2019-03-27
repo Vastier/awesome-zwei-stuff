@@ -25,14 +25,17 @@
 
 
 
+### Steam
+
 - [Green Luma Reborn](http://www.mediafire.com/file/u8nfdx8ndwkj4dh/GreenLuma_Reborn_1.6.7.7z/file)
+
 
 
 
 
 ## Programação
 
-[PythonTutor](http://pythontutor.com/visualize.html#mode=edit) Site para ver como o código que você escreveu é executado linha por linha:
+- [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) Site para ver como o código que você escreveu é executado linha por linha:
 (Com diversas linguagens de programação.)
 
 
