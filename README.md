@@ -22,7 +22,7 @@
 ### Adobe
 
 
-- [Programas da Adobe](https://drive.google.com/drive/folders/1mGjQGjjmVXcN_Lu_dXf68NBC6RhRRBYp?usp=sharing) Torrents com a maior parte dos programas da Adobe mais atualizados (até 19/03/2019) e Pré-crackeados (verifique no arquivo .inf/.nfo as instruções de instalação.
+- [Programas da Adobe](https://drive.google.com/drive/folders/1mGjQGjjmVXcN_Lu_dXf68NBC6RhRRBYp?usp=sharing) Torrents com a maior parte dos programas da Adobe mais atualizados (até 19/03/2019) e Pré-crackeados (verifique no arquivo .inf/.nfo as instruções de instalação.)
 
 
 
