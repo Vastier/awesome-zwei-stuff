@@ -38,5 +38,6 @@
 
 - [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) Site para ver como o código que você escreveu é executado linha por linha:
 (Com diversas linguagens de programação.)
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) Site com o principal objetivo de promover a prática de programação e o compartilhamento de conhecimento, com vários problemas para serem resolvidos classificados em 8 categorias com suporte em PT-BR e US-EN.
 
 
