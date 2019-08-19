@@ -18,6 +18,9 @@
 
 ## Programas
 
+### Windows
+
+ - [https://www.reddit.com/r/sjain_guides/comments/9qyuij/hwidkms38genmk6_download_and_usage_guide/](Ativador do Windows 10) Post no Reddit com links e intruções para ativar o Windows.
 
 ### Adobe
 
