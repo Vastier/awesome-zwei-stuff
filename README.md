@@ -53,7 +53,7 @@
 (Com diversas linguagens de programação.)
  - [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) Site com o principal objetivo de promover a prática de programação e o compartilhamento de conhecimento, com vários problemas para serem resolvidos classificados em 8 categorias com suporte em PT-BR e US-EN.
 
-### Colaboração e gestão de projetos
+### Colaboração e Gestão de Projetos
 
  - [MeisterTask](meistertask.com/) O MeisterTask é uma maneira de gerenciar tarefas e projetos de forma visual que permite uma colaboração fácil. Equipes de trabalho, estudantes ou professores podem fazer painéis de projeto para tarefas de grupo, onde os membros do grupo podem ver as tarefas em andamento e também as que foram concluídas. Basicamente, é uma ferramenta intuitiva para ajudar a racionalizar projetos colaborativos ou até mesmo solos, mantendo grupos organizados e em tarefas.
 
