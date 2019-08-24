@@ -53,6 +53,12 @@
 (Com diversas linguagens de programação.)
  - [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) Site com o principal objetivo de promover a prática de programação e o compartilhamento de conhecimento, com vários problemas para serem resolvidos classificados em 8 categorias com suporte em PT-BR e US-EN.
 
+### Colaboração e gestão de projetos
+
+ - [MeisterTask](meistertask.com/) O MeisterTask é uma maneira de gerenciar tarefas e projetos de forma visual que permite uma colaboração fácil. Equipes de trabalho, estudantes ou professores podem fazer painéis de projeto para tarefas de grupo, onde os membros do grupo podem ver as tarefas em andamento e também as que foram concluídas. Basicamente, é uma ferramenta intuitiva para ajudar a racionalizar projetos colaborativos ou até mesmo solos, mantendo grupos organizados e em tarefas.
+ - [Zotero](https://www.zotero.org/) Software livre para gestão e compartilhamento de referências bibliográficas. É um importante recurso para facilitar o desenvolvimento de trabalhos acadêmicos, tais como TCCs, teses, dissertações, artigos científicos, etc. [Aqui](https://planetazotero.blogspot.com/2018/09/tutorial-completo-para-o-zotero-50.html) tem um tutorial completo dele, desde a instalação, passando por suas configurações, o uso das bases de dados até a parte de escrita acadêmica.
+ > - [ZoteroBib](https://zbib.org/) Essa é uma versão web do Zotero, com o mesmo propósito, porém com menos ferramentas, bom para tarefas pequenas e que não precisem serem reutilizadas com múltiplos projetos ou compartilhadas com outras pessoas do mesmo projeto.
+
 ### Reddit
 
  - [Reddit Search](https://redditsearch.io/) Site de buscas no Reddit.
