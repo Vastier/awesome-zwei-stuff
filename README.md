@@ -9,7 +9,7 @@
  - [Recursos](#recursos)
  - [Programas](#programas)
  - [Sites](#sites)
- - [Inbox Recursos Zwei Docs](#Inbox Recursos Zwei Docs)
+ - [Inbox Recursos Zwei Docs](#inbox recursos zwei docs)
 
     
 ## Recursos
@@ -28,7 +28,7 @@
  - [Hiren's Boot](https://www.hirensbootcd.org/) Imagens Bootavel com programas de recuperação e teste de computadores.
  - [Office C2R](https://www.reddit.com/r/sjain_guides/comments/9m4m0k/microsoft_office_201319_simple_method_to_download/) Programa para baixar e ativar o Office.
  
-#### Chocolatey
+### Chocolatey
   >- O [Chocolatey](https://chocolatey.org/) é um gerenciador de programas do Windows que instala programas pra você de maneira fácil e prática.
   
   >- A lista dos programas que vocês podem instalar está [aqui nessa página](https://chocolatey.org/packages).
@@ -49,13 +49,9 @@ choco install chocolateygui -y (se quiser que ele instale sem perguntar nada)
 
   >- Para finalizar, vá no iniciar, abra o Chocolatey GUI, dentro dele, na esquerda mudem de Este Computador pra chocolatey, lá perto do botão de fechar escolhe 'Visualização em Grelha' e pronto, pick your poisons and be happy.
 
-
 ### Adobe
 
-
  - [Programas da Adobe](https://drive.google.com/drive/folders/1mGjQGjjmVXcN_Lu_dXf68NBC6RhRRBYp?usp=sharing) Torrents com a maior parte dos programas da Adobe mais atualizados (até 19/03/2019) e Pré-crackeados (verifique no arquivo .inf/.nfo as instruções de instalação.)
-
-
 
 ### Steam
 
@@ -86,14 +82,19 @@ choco install chocolateygui -y (se quiser que ele instale sem perguntar nada)
  - [Zotero](https://www.zotero.org/) Software livre para gestão e compartilhamento de referências bibliográficas. É um importante recurso para facilitar o desenvolvimento de trabalhos acadêmicos, tais como TCCs, teses, dissertações, artigos científicos, etc. [Aqui](https://planetazotero.blogspot.com/2018/09/tutorial-completo-para-o-zotero-50.html) tem um tutorial completo dele, desde a instalação, passando por suas configurações, o uso das bases de dados até a parte de escrita acadêmica.
  >- [ZoteroBib](https://zbib.org/) Essa é uma versão web do Zotero, com o mesmo propósito, porém com menos ferramentas, bom para tarefas pequenas e que não precisem serem reutilizadas com múltiplos projetos ou compartilhadas com outras pessoas do mesmo projeto.
 
+### Navegadores
+- [Min](https://minbrowser.github.io/min/) O Min, como o nome até mesmo sugere, é um navegador **Min**imalista, ele usa o mesmo motor do Chromium/Chrome, porém, não traz toda a "tralha" que os mesmos trazem, desta forma ele consegue ser muito mais leve que os dois, mesmo com várias abas abertas.
+- [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) O Firefox, porém é uma versão do navegador da Mozilla criada especialmente para desenvolvedores, trazendo uma série de ferramentas adicionais como opções para ajudar no desenvolvimento e no testes das suas aplicações, incluindo funcionalidades de depuração, teste de responsividade e até mesmo uma IDE integrada.
+
+
 ### Reddit
 
  - [Reddit Search](https://redditsearch.io/) Site de buscas no Reddit.
- 
- 
-### Inbox Recursos Zwei Docs
 
-#### Sites
+
+## Inbox Recursos Zwei Docs
+
+### Sites
 
  - [EDx](https://www.edx.org/) Mais de 1900 cursos da MIT, Harvard, Microsoft tudo de graça, maioria em Inglês.
  - [Udacity](https://www.udacity.com/) Mais um Site de cursos, Maioria em inglês.
@@ -122,11 +123,11 @@ choco install chocolateygui -y (se quiser que ele instale sem perguntar nada)
 
 >- https://www.opensubtitles.org/pt
 
-#### Canais do Youtube
+### Canais do Youtube
 - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting) Canal com uma série de vídeos sobre edição/cinematografia/filmes. (em inglês)
  - [Copião - Lab. de Edição Criativa](https://www.youtube.com/channel/UCmGNypiu7iC6b827QCM-GHw) Canal sobre Edição de Vídeo e Filmes, com vídeos dele mostrando como ele edita e análises de filmes.
 
-#### Recursos Aleatórios
+### Recursos Aleatórios
 
  - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) Github com lista uma enorme lista de conteúdo pirata. (nossa lista é inspirada nessa.)
 
@@ -137,10 +138,3 @@ choco install chocolateygui -y (se quiser que ele instale sem perguntar nada)
  - [Icaros](https://www.majorgeeks.com/files/details/icaros.html) Icaros é uma coleção de Extensões de Shells do Windows, em resumo, ele faz com que a thumb dos arquivos apareçam para 99% dos arquivos de vídeo, arquivos de gráficos e quase qualquer tipo de arquivo, só arrastar o arquivo pro programa que ele tenta resolver. (Na engrenagenzinha perto do minimizar tem como colocar o programa em português.)
 
  - [Test Disk](https://www.cgsecurity.org/wiki/TestDisk) Programa para recuperar arquivos e partições apagadas/corrompidas.
-
-
-
-
-
-
-
