@@ -55,7 +55,15 @@ choco install chocolateygui -y (se quiser que ele instale sem perguntar nada)
 
 ### Steam
 
- - [Green Luma Reborn](http://www.mediafire.com/file/u8nfdx8ndwkj4dh/GreenLuma_Reborn_1.6.7.7z/file)
+ - [Green Luma Reborn](http://www.mediafire.com/file/u8nfdx8ndwkj4dh/GreenLuma_Reborn_1.6.7.7z/file) Green Luma Reborn (GLR) é um desbloqueador Steam fabricado pelo [Steam006](https://cs.rin.ru/forum/memberlist.php?mode=viewprofile&u=415627) usado para obter jogos de bibliotecas compartilhadas através de um "desvio" e alguns DLC's.
+> **Algum vírus/malware?**
+Posso garantir que é 100% [livre de vírus](https://www.virustotal.com/gui/file/d977e045cc6c5b8fa623bd35564e669ba5a7e66fa6e64c608d9b590928651484/detection).
+>- Acesse [aqui](https://github.com/Vastier/awesome-zwei-stuff/wiki/Tutoriais#green-luma-reborn) para saber mais informações sobre o GLR e de como fazer a **instalação** do mesmo corretamente.
+
+### Parsec
+
+- [Parsec](https://parsecgaming.com/) O Parsec é um aplicativo de captura de desktop usado principalmente para jogos baseados na nuvem por meio de streaming de vídeo.
+>- Acesse [aqui](https://github.com/Vastier/awesome-zwei-stuff/wiki/Tutoriais#parsec) para saber mais informações sobre o Parsec como tutoriais, dicas e curiosidades.
 
 
 ## Sites
@@ -109,7 +117,7 @@ choco install chocolateygui -y (se quiser que ele instale sem perguntar nada)
  - [Wanokoto Labs](http://labs.wanokoto.jp/olds) Site para colocar efeito na imagem de creepy/morte/legal pra carai/meu Deus o que o Fael achou isso é muito bom.
  - [Synergy](https://sourceforge.net/projects/synergy-stable-builds/) Programa para usar outro computador com o mesmo mouse e teclado, como se ele fosse outro monitor.
 
->- #### Sites de Torrents e Legendas
+>- ### Sites de Torrents e Legendas
 
 >- https://rarbg.is/catalog/movies/
 
@@ -124,8 +132,9 @@ choco install chocolateygui -y (se quiser que ele instale sem perguntar nada)
 >- https://www.opensubtitles.org/pt
 
 ### Canais do Youtube
-- [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting) Canal com uma série de vídeos sobre edição/cinematografia/filmes. (em inglês)
+ - [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting) Canal com uma série de vídeos sobre edição/cinematografia/filmes. (em inglês)
  - [Copião - Lab. de Edição Criativa](https://www.youtube.com/channel/UCmGNypiu7iC6b827QCM-GHw) Canal sobre Edição de Vídeo e Filmes, com vídeos dele mostrando como ele edita e análises de filmes.
+ - [Diolinux](https://www.youtube.com/user/Diolinux) Canal de tecnologia com foco na cultura Open Source, por aqui você vai conhecer o mundo Linux (Ubuntu, Linux Mint e outras distros) do melhor ponto de vista possível, vai conhecer melhor vários produtos antes de fazer as suas compras através dos nossos Unboxings e Reviews de Smartphones, computadores e eletrônicos diversos.
 
 ### Recursos Aleatórios
 
