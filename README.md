@@ -14,7 +14,7 @@
     
 ## Recursos
 
- - [Recursos Zwei](https://docs.google.com/document/d/1xYQSxIhp5YMptyxj46ZVu8lxM_ipJ5IXplNQue4R3So/edit) O antigo repositório de Links da Gen Zwei, será talvez mesclado com essa página... (talvez.)
+ - [Recursos Zwei](https://docs.google.com/document/d/1xYQSxIhp5YMptyxj46ZVu8lxM_ipJ5IXplNQue4R3So/edit) O antigo repositório de Links da Gen Zwei, já está em sua maioria mesclado com essa página...
 
 
 ## Programas
