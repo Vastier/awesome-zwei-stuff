@@ -22,7 +22,7 @@
 ### Windows
 
  - [Imagem do Windows 10](https://drive.google.com/file/d/1N0fpNVgyuPNcvLrwh7729u8YIc_emXkL/view?usp=sharing) Imagem que eu fiz do Windows 10 Pro sem Cortana, com o mínimo de Telemetria e sem os programinhas que a Microsoft instala sempre (Candy Crush, etc.) bem leve só com o necessário.
- - [Ativador do Windows 10](https://www.reddit.com/r/sjain_guides/comments/9qyuij/hwidkms38genmk6_download_and_usage_guide/) Post no Reddit com links e intruções para ativar o Windows.
+ - [Ativador do Windows 10](https://saidit.net/s/sjain_guides/comments/9p3/hwidkms38genmk6_download_and_usage_guide/) Post com links e intruções para ativar o Windows.
  - [Rufus](https://rufus.ie/) Programa para gravar as imagens no Pendrive.
  - [EasyBCD](https://neosmart.net/EasyBCD/) Programa para editar as configurações de boot do computador.
  - [Hiren's Boot](https://www.hirensbootcd.org/) Imagens Bootavel com programas de recuperação e teste de computadores.
