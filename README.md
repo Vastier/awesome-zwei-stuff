@@ -23,6 +23,7 @@
 
  - [Imagem do Windows 10](https://drive.google.com/file/d/1N0fpNVgyuPNcvLrwh7729u8YIc_emXkL/view?usp=sharing) Imagem que eu fiz do Windows 10 Pro sem Cortana, com o mínimo de Telemetria e sem os programinhas que a Microsoft instala sempre (Candy Crush, etc.) bem leve só com o necessário.
  - [Ativador do Windows 10](https://saidit.net/s/sjain_guides/comments/9p3/hwidkms38genmk6_download_and_usage_guide/) Post com links e intruções para ativar o Windows.
+ - [Shut Up 10](https://www.oo-software.com/en/shutup10) Programa para desativar a maioria das coisas espiãs do windows 10. (Em caso de dúvidas só marque os que são recomendados marcar e GG.)
  - [Rufus](https://rufus.ie/) Programa para gravar as imagens no Pendrive.
  - [EasyBCD](https://neosmart.net/EasyBCD/) Programa para editar as configurações de boot do computador.
  - [Hiren's Boot](https://www.hirensbootcd.org/) Imagens Bootavel com programas de recuperação e teste de computadores.
@@ -139,8 +140,6 @@ Posso garantir que é 100% [livre de vírus](https://www.virustotal.com/gui/file
 ### Recursos Aleatórios
 
  - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) Github com lista uma enorme lista de conteúdo pirata. (nossa lista é inspirada nessa.)
-
- - [Shut Up 10](https://www.oo-software.com/en/shutup10) Programa para desativar a maioria das coisas espiãs do windows 10. (Em caso de dúvidas só marque os que são recomendados marcar e GG.)
 
  - [Voicemeeter Remote](https://imgur.com/a/RIyHJHc) Tutorial de como usar seu celular como fone sem fio usando o Voicemeeter.
 
