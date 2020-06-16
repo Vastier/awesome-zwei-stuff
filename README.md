@@ -27,7 +27,7 @@
  - [Rufus](https://rufus.ie/) Programa para gravar as imagens no Pendrive.
  - [EasyBCD](https://neosmart.net/EasyBCD/) Programa para editar as configurações de boot do computador.
  - [Hiren's Boot](https://www.hirensbootcd.org/) Imagens Bootavel com programas de recuperação e teste de computadores.
- - [Office C2R](https://www.reddit.com/r/sjain_guides/comments/9m4m0k/microsoft_office_201319_simple_method_to_download/) Programa para baixar e ativar o Office.
+ - [Office C2R](https://saidit.net/s/sjain_guides/comments/9p0/microsoft_office_201319_simple_method_to_download/) Programa para baixar e ativar o Office.
  
 ### Chocolatey
   >- O [Chocolatey](https://chocolatey.org/) é um gerenciador de programas do Windows que instala programas pra você de maneira fácil e prática.
