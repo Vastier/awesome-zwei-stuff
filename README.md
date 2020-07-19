@@ -21,13 +21,14 @@
 
 ### Windows
 
- - [Imagem do Windows 10](https://drive.google.com/file/d/1XPnfEIhpoayuusP-UhQ3mIw_v2YctlZj/view?usp=sharing) Imagem que eu fiz do Windows 10 Pro sem Cortana, com o mínimo de Telemetria e sem os programinhas que a Microsoft instala sempre (Candy Crush, etc.) bem leve só com o necessário.
+ - [Imagem do Windows 10](https://drive.google.com/file/d/1XPnfEIhpoayuusP-UhQ3mIw_v2YctlZj/view?usp=sharing) Imagem que eu fiz do Windows 10 Pro sem Cortana, com o mínimo de Telemetria e sem os programinhas que a Microsoft instala sempre (Candy Crush, etc.) bem leve só com o necessário. 
  - [Ativador do Windows 10](https://saidit.net/s/sjain_guides/comments/9p3/hwidkms38genmk6_download_and_usage_guide/) Post com links e intruções para ativar o Windows.
  - [Shut Up 10](https://www.oo-software.com/en/shutup10) Programa para desativar a maioria das coisas espiãs do windows 10. (Em caso de dúvidas só marque os que são recomendados marcar e GG.)
  - [Rufus](https://rufus.ie/) Programa para gravar as imagens no Pendrive.
  - [EasyBCD](https://neosmart.net/EasyBCD/) Programa para editar as configurações de boot do computador.
  - [Hiren's Boot](https://www.hirensbootcd.org/) Imagens Bootavel com programas de recuperação e teste de computadores.
  - [Office C2R](https://saidit.net/s/sjain_guides/comments/9p0/microsoft_office_201319_simple_method_to_download/) Programa para baixar e ativar o Office.
+ - [Secret Link](https://drive.google.com/drive/folders/1LIeTLlazS9MrwDa-pPO8zFX5O-J5H47Q?usp=sharing) (Isso não é um link pra nada.)
  
 ### Chocolatey
   >- O [Chocolatey](https://chocolatey.org/) é um gerenciador de programas do Windows que instala programas pra você de maneira fácil e prática.
