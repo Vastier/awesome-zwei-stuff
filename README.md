@@ -21,7 +21,7 @@
 
 ### Windows
 
- - [Imagem do Windows 10](https://drive.google.com/file/d/1XPnfEIhpoayuusP-UhQ3mIw_v2YctlZj/view?usp=sharing) Imagem que eu fiz do Windows 10 Pro sem Cortana, com o mínimo de Telemetria e sem os programinhas que a Microsoft instala sempre (Candy Crush, etc.) bem leve só com o necessário. 
+ - [Imagem do Windows 10](https://drive.google.com/file/d/1O_qF-1I5A1h65xvV8aKPqut3maIJKcyM/view?usp=sharing) Imagem que eu fiz do Windows 10 Pro sem Cortana, com o mínimo de Telemetria e sem os programinhas que a Microsoft instala sempre (Candy Crush, etc.) bem leve só com o necessário. 
  - [Ativador do Windows 10](https://saidit.net/s/sjain_guides/comments/9p3/hwidkms38genmk6_download_and_usage_guide/) Post com links e intruções para ativar o Windows.
  - [Shut Up 10](https://www.oo-software.com/en/shutup10) Programa para desativar a maioria das coisas espiãs do windows 10. (Em caso de dúvidas só marque os que são recomendados marcar e GG.)
  - [Rufus](https://rufus.ie/) Programa para gravar as imagens no Pendrive.
