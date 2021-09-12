@@ -21,9 +21,10 @@
 
 ### Windows
 
- - [Imagem do Windows 10](https://drive.google.com/file/d/1O_qF-1I5A1h65xvV8aKPqut3maIJKcyM/view?usp=sharing) Imagem que eu fiz do Windows 10 Pro sem Cortana, com o mínimo de Telemetria e sem os programinhas que a Microsoft instala sempre (Candy Crush, etc.) bem leve só com o necessário. 
- - [Ativador do Windows 10](https://saidit.net/s/sjain_guides/comments/9p3/hwidkms38genmk6_download_and_usage_guide/) Post com links e intruções para ativar o Windows.
+ - [Imagem do Windows 10](https://drive.google.com/file/d/1vAa7pA1rtFZlfzctpPBY4USYaXz_ZBl8/view?usp=sharing) Imagem que eu fiz do Windows 10 Pro sem Cortana, com o mínimo de Telemetria e sem os programinhas que a Microsoft instala sempre (Candy Crush, etc.) bem leve só com o necessário. 
+ - [Ativador do Windows 10](google.com) (Link quebrado, baixa vai no Secret Link que tem dentro do Basics.7z, senha 123) Post com links e intruções para ativar o Windows.
  - [Shut Up 10](https://www.oo-software.com/en/shutup10) Programa para desativar a maioria das coisas espiãs do windows 10. (Em caso de dúvidas só marque os que são recomendados marcar e GG.)
+ - [Windows Debloater](https://github.com/Sycnex/Windows10Debloater) Script pra fazer o mesmo que o Shut up 10, só é um script e não programa.
  - [Rufus](https://rufus.ie/) Programa para gravar as imagens no Pendrive.
  - [EasyBCD](https://neosmart.net/EasyBCD/) Programa para editar as configurações de boot do computador.
  - [Hiren's Boot](https://www.hirensbootcd.org/) Imagens Bootavel com programas de recuperação e teste de computadores.
@@ -70,12 +71,17 @@ Posso garantir que é 100% [livre de vírus](https://www.virustotal.com/gui/file
 
 ## Sites
 
-### [Inbox]
+### [Utilidades]
+ - [Não me Perturbe](https://naomeperturbe.com.br/) O Não me Perturbe permite, de forma fácil e gratuita, evitar a oferta de produtos e serviços por meio de contato telefônico provenientes exclusivamente das Prestadoras de Serviços de Telecomunicações (Telefone móvel, telefone fixo, TV por assinatura e Internet) e pelas Instituições Financeiras (operações de Empréstimo Consignado e Cartão de Crédito Consignado).
+ - 
+
+### [Edição de Imagens]
 
  - [Piskel](https://www.piskelapp.com/) Editor online grátis para pixel art e sprites animados.
  - [aseprite](https://www.aseprite.org/) Editor para pixel art (tem que buildar da Source para poder usar de graça).
  - [Photopea](https://www.photopea.com/) Editor de imagens estilo Photoshop.
  - [Removebg](https://www.remove.bg/) Site para remover o fundo de imagens.
+ - [Wanokoto Labs](http://labs.wanokoto.jp/olds) Site para colocar efeito na imagem de creepy/morte/legal pra carai/meu Deus o que o Fael achou isso é muito bom.
  
 ### Programação
 
@@ -115,8 +121,7 @@ Posso garantir que é 100% [livre de vírus](https://www.virustotal.com/gui/file
  - [PC Gaming Wiki](http://pcgamingwiki.com/wiki/Home) Site com resolução de problemas e erros comuns em jogos.
  - [What Can We All Play](http://whatcanweallplay.com/home/) Site que você coloca o seu Steam-ID e o de seus amigos e ele te diz quais jogos multiplayer os dois possuem e podem jogar juntos.
  - [Playlist Buddy](https://www.playlistbuddyapp.com/) Site para converter Playlists de Spotify para Youtube.
- - [Portal](http://portal.pushbullet.com/) Site para transferir imagens, vídeos, e outros arquivos do seu computador para o seu telefone de forma simples. É só baixar o aplicativo, escanear o QR code e depois arrastar e soltar os arquivos que quiser no site.
- - [Wanokoto Labs](http://labs.wanokoto.jp/olds) Site para colocar efeito na imagem de creepy/morte/legal pra carai/meu Deus o que o Fael achou isso é muito bom.
+ - [Portal](http://portal.pushbullet.com/) Site para transferir imagens, vídeos, e outros arquivos do seu computador para o seu telefone de forma simples. É só baixar o aplicativo, escanear o QR code e depois arrastar e soltar os arquivos que quiser no site
  - [Synergy](https://sourceforge.net/projects/synergy-stable-builds/) Programa para usar outro computador com o mesmo mouse e teclado, como se ele fosse outro monitor.
 
 >- ### Sites de Torrents e Legendas
